@@ -1,3 +1,5 @@
+/***************TAG SELECTORS***************/
+
 body {
   background-color: #EAF6F6;
 }
@@ -15,10 +17,33 @@ h1 {
   color: #66BFBF;
 }
 
-h2 {
+h3 {
   color: #66BFBF;
 }
+
+/*img:hover {
+  background-color: green;
+}
+*/
 
 /* img {
   height: 280px;
 } */
+
+
+/***************CLASS SELECTORS***************/
+
+.photo-background {
+  background-color: none;
+}
+
+
+/***************ID SELECTORS***************/
+
+#heading {
+  color: blue;
+}
+
+#big-font {
+  font-size: 200px;
+}
